@@ -12,8 +12,8 @@ Save and Reset: Save your text and settings so you can continue later or reset e
 
 🌟 Screenshots
 
-![Screenshot](https://github.com/Vinodhsana1/punt_partners/raw/main/src/assets/oup1.png)
-![Screenshot](https://github.com/Vinodhsana1/punt_partners/raw/main/src/assets/oup2.png)
+![Screenshot](https://github.com/Vinodhsana1/text-editor/raw/main/src/assets/oup1.png)
+![Screenshot](https://github.com/Vinodhsana1/text-editor/raw/main/src/assets/oup2.png)
 
 
 
