@@ -1,5 +1,26 @@
 # Getting Started with Create React App
 
+
+
+
+🚀 Features
+Dynamic Font Selection: Choose from a wide variety of fonts to find the perfect style for your content.
+Font Variants: Select different weights and styles, including italics, to fine-tune your text presentation.
+Live Preview: See your changes in real-time as you select different fonts and styles.
+Save and Reset: Save your text and settings so you can continue later or reset everything to start fresh.
+
+
+🌟 Screenshots
+
+![Screenshot](https://github.com/Vinodhsana1/punt_partners/raw/main/src/assets/oup1.png)
+![Screenshot](https://github.com/Vinodhsana1/punt_partners/raw/main/src/assets/oup2.png)
+
+
+
+
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
