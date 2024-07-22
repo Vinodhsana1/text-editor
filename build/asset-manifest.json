@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/punt_partners/static/css/main.f116dffc.css",
+    "main.js": "/punt_partners/static/js/main.b0edd1e9.js",
+    "index.html": "/punt_partners/index.html",
+    "main.f116dffc.css.map": "/punt_partners/static/css/main.f116dffc.css.map",
+    "main.b0edd1e9.js.map": "/punt_partners/static/js/main.b0edd1e9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f116dffc.css",
+    "static/js/main.b0edd1e9.js"
+  ]
+}

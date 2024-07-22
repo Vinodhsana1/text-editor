@@ -1,5 +1,27 @@
 # Getting Started with Create React App
 
+
+
+
+🚀 Features
+Dynamic Font Selection: Choose from a wide variety of fonts to find the perfect style for your content.
+Font Variants: Select different weights and styles, including italics, to fine-tune your text presentation.
+Live Preview: See your changes in real-time as you select different fonts and styles.
+Save and Reset: Save your text and settings so you can continue later or reset everything to start fresh.
+
+
+🌟 Screenshots
+
+![Screenshot](https://github.com/Vinodhsana1/text-editor/raw/master/src/assets/oup1.png)
+![Screenshot](https://github.com/Vinodhsana1/text-editor/raw/master/src/assets/oup2.png)
+deployed URL in vercel(not working properly,trying to rectify it soon..):https://text-editor-six-beta.vercel.app/
+Also uploaded the build folder in github..
+Faced some problems in deploying the page,so here is the video for the same in local host:3000
+![Watch the video](https://github.com/Vinodhsana1/text-editor/raw/master/src/assets/website.mp4)
+
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
