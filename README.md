@@ -16,7 +16,7 @@ Save and Reset: Save your text and settings so you can continue later or reset e
 ![Screenshot](https://github.com/Vinodhsana1/text-editor/raw/master/src/assets/oup2.png)
 
 
-
+![Watch the video](https://github.com/Vinodhsana1/text-editor/raw/master/src/assets/website.mp4)
 
 
 
