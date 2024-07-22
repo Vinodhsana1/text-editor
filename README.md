@@ -14,8 +14,9 @@ Save and Reset: Save your text and settings so you can continue later or reset e
 
 ![Screenshot](https://github.com/Vinodhsana1/text-editor/raw/master/src/assets/oup1.png)
 ![Screenshot](https://github.com/Vinodhsana1/text-editor/raw/master/src/assets/oup2.png)
-
-
+deployed URL in vercel(not working properly,trying to rectify it soon..):https://text-editor-six-beta.vercel.app/
+Also uploaded the build folder in github..
+Faced some problems in deploying the page,so here is the video for the same in local host:3000
 ![Watch the video](https://github.com/Vinodhsana1/text-editor/raw/master/src/assets/website.mp4)
 
 
